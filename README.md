@@ -151,3 +151,4 @@ This list is intended to be of utility for all developers who are looking web ma
 * [Ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
 * [Craft Ottawa](https://craftottawa.ca)
 * [Sea Florida Change](https://www.seaflchange.org/)
+* [Michelin Starred Restaurants](https://restos-etoiles.surge.sh)
